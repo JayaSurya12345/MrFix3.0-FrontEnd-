@@ -1,0 +1,33 @@
+
+.manage-events{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.manage-events-button{
+    background-color: #938c8c;
+    font-size:medium;
+    color: white;
+    border-color: #0f1010;
+    width: 200px;
+    height: 60px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 2px 2px rgb(117, 113, 113);
+    
+}
+
+.manage-events-button:hover{
+    background-color: #161617;
+    box-shadow: 3px 3px 3px  rgb(140, 137, 137);
+
+}
+
+.event-list{
+    display: flex;
+    justify-content:space-around;
+    margin-top: 100px;
+}
+
+
+

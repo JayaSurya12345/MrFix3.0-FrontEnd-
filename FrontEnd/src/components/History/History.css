@@ -1,0 +1,45 @@
+
+
+
+.history-item{
+    background-color: black;
+    display: flex;
+    width: 85%;
+    margin-left: 8%;
+    border-radius: 20px;
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border-radius: 20px;
+    border:1px solid rgba(255, 255, 255, 0.18);
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    margin-top: 30px;   
+}
+
+.history-item:hover{
+    background-color: rgb(73, 72, 72);
+}
+
+.history-pic-img{
+    width: 60%;
+    height: 90%;
+    margin-left: 6%;
+    margin-top: 3%;
+    border-radius: 10%;
+    
+}
+
+.history-content{
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    width: 100%;
+    color: white;
+}
+
+.history-content-date{
+    font-size:larger;
+}
+.history-content-description{
+    font-size: large;
+
+}

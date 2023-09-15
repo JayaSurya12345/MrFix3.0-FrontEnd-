@@ -1,0 +1,202 @@
+
+.evetza-p{
+    margin-left: 140px;
+  }
+  
+  
+  .eventza-span {
+  width: 84%; 
+  text-align: center; 
+  border-bottom: 1px solid #000; 
+  line-height: 4em;
+  /* margin: 10px 0 20px; */
+  margin-left: 40px; 
+  margin-right: 40px;
+  } 
+  .title-wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .eventza-span{ 
+    background:#4f5153; 
+    padding:0 10px; 
+  }
+  
+  .title-name{
+    font-weight: bolder;
+    font-size:70px;
+    width: 30rem;
+    color: white;
+    background-color: #000;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    text-align: center;
+  }
+  
+  
+  
+  
+  
+  .signin{
+      background-color: #434547;
+      color:white;
+      
+      margin-left: 540px;
+      margin-right: 540px;
+      margin-top: 65px;
+      border-radius: 50px;
+      height: 515px;
+      box-shadow: 10px 10px 10px 10px rgb(199, 192, 192);
+  }
+  
+  .signin:hover{
+    box-shadow: 10px 10px 10px 10px rgb(68, 62, 62);
+  }
+  
+  h1{
+      margin-left: 190px;
+  }
+  
+  .label-name{
+      margin-left: 40px;
+  }
+  
+  .input-name{
+      margin-left: 100px;
+      width: 220px;
+      height: 25px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 2px rgb(131, 126, 126);
+      border-color: white;
+  }
+  
+  .label-email{
+      margin-left: 40px;
+  }
+  
+  .input-email{
+      margin-left: 80px;
+      width: 220px;
+      height: 25px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 2px rgb(131, 126, 126);
+      border-color: white;
+  }
+  
+  .label-create-password{
+      margin-left: 40px;
+  }
+  
+  .create-input-password{
+      margin-left: 30px;
+      width: 220px;
+      height: 25px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 2px rgb(131, 126, 126);
+      border-color: white;
+  }
+  
+  .label-confirm-password{
+      margin-left: 40px;
+  }
+  
+  .confirm-input-password{
+      margin-left: 20px;
+      width: 220px;
+      height: 25px;
+      border-radius: 10px;
+      box-shadow: 2px 2px 2px rgb(131, 126, 126);
+      border-color: white;
+  }
+  
+  .signup-button{
+      margin-left: 180px;
+      width: 100px;
+      height: 45px;
+      border-radius: 25px;
+      background-color: #000000;
+      color: white;
+      border-color:#000000 ;
+  }
+  
+  input{
+    padding-left: 10px;
+    height:3rem;
+  }
+  .login-link{
+    color: #a19898;
+  }
+  .signup-button:hover{
+      
+      background-color: #ffffff;
+      color: rgb(0, 0, 0);
+      border-color:#ffffff ;
+  }
+  
+  .forget-pass{
+      margin-left: 30px;
+  }
+  
+  p{
+      margin-left: 140px;
+  }
+  
+  
+  .or {
+    width: 84%; 
+    text-align: center; 
+    border-bottom: 1px solid #000; 
+    line-height: 0.1em;
+    /* margin: 10px 0 20px; */
+    margin-left: 40px; 
+    margin-right: 40px;
+  } 
+  
+  span{ 
+      background:#4f5153; 
+      padding:0 10px; 
+  }
+  
+  .google-btn {
+    width: 184px;
+    height: 42px;
+    margin-left: 135px;
+    background-color: #60656c;
+    border-radius: 2px;
+    box-shadow: 0px 3px 4px 0px rgba(0,0,0,.25);
+  }
+    .google-icon-wrapper {
+      position: absolute;
+      margin-top: 1px;
+      margin-left: 1px;
+      width: 40px;
+      height: 40px;
+      border-radius: 2px;
+      background-color: white;
+    }
+    .google-icon {
+      position: absolute;
+      margin-top: 11px;
+      margin-left: 11px;
+      width: 18px;
+      height: 18px;
+    }
+    .btn-text {
+      float: right;
+      margin: 11px 11px 0 0;
+      color: white;
+      font-size: 14px;
+      letter-spacing: 0.2px;
+      font-family: "Roboto";
+    }
+    .google-btn:hover {
+      box-shadow: 0px 0px 6px #1d1e21;
+    }
+    .google-btn:active {
+      background: #1669F2;
+    }
+  
+  
+  @import url(https://fonts.googleapis.com/css?family=Roboto:500);
